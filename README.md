@@ -1,3 +1,7 @@
+!\[Image](screenshot.png)
+
+
+
 Original artbooknext theme and assets by https://github.com/anthonycaccese
 This project was inspired by a similar Daijisho project: https://daijishou.github.io/Gallery/wallpapers\_pack#ModernWaifu
 
