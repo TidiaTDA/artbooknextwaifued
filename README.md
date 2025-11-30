@@ -28,9 +28,9 @@ From ESDE's  main menu go to UI settings -> theme color scheme -> custom
 
 Availability of suitable  official artwork, iconicity, personal taste, priority to first party characters.
 
--Why  is  system  uncustomized?
+-What's with the uncustomized systems?
 
-Wasn't a priority/couldn't  think of a good character/couldn't  find  official art of them. I am  not  against  adding more in the feature so you can request  but I make no promises.
+Weren't a priority/couldn't  think of a good character/couldn't  find  official art of them. I am  not  against  adding more in the feature so you can request  but I make no promises.
 
 ## Version History
 
