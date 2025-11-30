@@ -1,3 +1,5 @@
+ESDE: artbooknext waifu edition
+
 
 
 !\[Image](/screenshot.png)
