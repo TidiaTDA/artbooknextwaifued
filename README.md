@@ -7,6 +7,8 @@ If you dont have it, install artbook next from https://github.com/anthonycaccese
 Move the theme-customizations theme inside your artbook next folder.
 
 From ESDE's main menu go to UI settings -> theme color scheme -> custom
+
+
 IMPORTANT: android users you need to have the theme in your ESDE/themes folder, it won't work if you install it in the internal data folder the theme will be found in if you download it through ESDE.
 
 FAQs:
