@@ -37,6 +37,5 @@ Weren't a priority/couldn't  think of a good character/couldn't  find  official 
 
 ## Version History
 
-* 1.0
-
-* Initial Release
+* 1.1: Added some systems
+* 1.0: Initial Release
